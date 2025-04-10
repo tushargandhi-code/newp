@@ -9,6 +9,12 @@ import Link from 'next/link';
 import Breadcrumb from '@/components/Breadcrumb';
 import Footer from '@/components/Footer';
 
+import { Metadata } from "next";
+
+export const metadata : Metadata = {
+    title: "ETFS",
+  };
+
 const Politics = () => {
   const [visiblePosts, setVisiblePosts] = useState(12); 
   const loadMore = () => {
@@ -21,7 +27,7 @@ const Politics = () => {
 
         <div className='mt-20 pt-8 text-black text-center  flex flex-col justify-center'>
 
-        <div className="max-w-7xl text-black lg:px-28 ">
+        <div className="max-w-7xl text-black px-6 lg:px-28 ">
        <Breadcrumb />
         </div>
           

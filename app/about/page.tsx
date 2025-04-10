@@ -1,6 +1,14 @@
 import React from 'react'
-
 import Footer from '../../components/Footer'
+
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "About",
+  description: "Learn more about Nexus News and what we do.",
+  keywords: ["Stock Market", "About", "Trading", "ETFS", "Finance"],
+};
+
 
 const About = () => {
   return (

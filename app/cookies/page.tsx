@@ -2,6 +2,12 @@ import React from 'react'
 
 import Footer from '../../components/Footer'
 
+import { Metadata } from "next";
+
+export const metadata : Metadata = {
+    title: "Cookie Policy",
+}
+
 const CookiesPolicy = () => {
   return (
     <>

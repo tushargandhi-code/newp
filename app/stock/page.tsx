@@ -9,6 +9,12 @@ import Link from 'next/link';
 import usNews from '@/constants/usnews';
 import Breadcrumb from '@/components/Breadcrumb';
 
+import { Metadata } from "next";
+
+export const metadata : Metadata = {
+    title: "Stock",
+  };
+
 const Usnews = () => {
   const [visiblePosts, setVisiblePosts] = useState(12); // Show 4 initially
 
@@ -20,7 +26,7 @@ const Usnews = () => {
     <>
       <div className='bg-white'>
         <div className='mt-20 pt-8 text-black text-center  flex flex-col justify-center'>
-        <div className="max-w-7xl text-black lg:px-28">
+        <div className="max-w-7xl text-black px-6 lg:px-28">
        <Breadcrumb />
         </div>
           

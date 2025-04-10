@@ -20,7 +20,7 @@ const Header = () => {
         </Link>
 
         {/* Hamburger (visible below lg only) */}
-        <div className="lg:hidden text-white text-2xl" onClick={toggleMenu}>
+        <div className="lg:hidden hover:cursor-pointer text-black text-2xl" onClick={toggleMenu}>
           {menuOpen ? <FiX /> : <FiMenu />}
         </div>
 
@@ -35,10 +35,10 @@ const Header = () => {
 
       {/* Mobile/Tablet Nav (only shown if menu is open) */}
       {menuOpen && (
-        <div className="lg:hidden px-5 pb-4 space-y-4 bg-black shadow-md">
+        <div className="lg:hidden px-5 pb-4 space-y-4  shadow-md">
           <nav>
             <ul className="flex flex-col items-center space-y-5 text-base">
-              <li><Link href="/etfs" onClick={handleCloseMenu} className="hover:text-blue-700">ETFS</Link></li>
+              <li><Link href="/etfs" onClick={handleCloseMenu} className="text-black hover:text-blue-700">ETFS</Link></li>
               <li><Link href="/finance" onClick={handleCloseMenu} className="hover:text-blue-700">FINANCE</Link></li>
               <li><Link href="/stock" onClick={handleCloseMenu} className="hover:text-blue-700">STOCK</Link></li>
               <li><Link href="/trading" onClick={handleCloseMenu} className="hover:text-blue-700">TRADING</Link></li>
