@@ -9,12 +9,6 @@ import Link from 'next/link';
 import usNews from '@/constants/usnews';
 import Breadcrumb from '@/components/Breadcrumb';
 
-import { Metadata } from "next";
-
-export const metadata : Metadata = {
-    title: "Stock",
-  };
-
 const Usnews = () => {
   const [visiblePosts, setVisiblePosts] = useState(12); // Show 4 initially
 

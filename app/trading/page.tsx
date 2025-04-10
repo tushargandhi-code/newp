@@ -9,17 +9,13 @@ import Link from 'next/link'
 import Image from 'next/image'
 import Breadcrumb from '@/components/Breadcrumb';
 
-import { Metadata } from "next";
 
-export const metadata : Metadata = {
-    title: "Trading",
-  };
 
 const Entertainment = () => {
-  const [visiblePosts, setVisiblePosts] = useState(12) // Show 4 initially
+  const [visiblePosts, setVisiblePosts] = useState(12) 
 
   const loadMore = () => {
-    setVisiblePosts((prev) => prev + 4) // Load 4 more each time
+    setVisiblePosts((prev) => prev + 4) 
   }
 
   return (

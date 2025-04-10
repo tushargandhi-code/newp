@@ -9,11 +9,7 @@ import money from '@/constants/money';
 import Link from 'next/link';
 import Breadcrumb from '@/components/Breadcrumb';
 
-import { Metadata } from "next";
 
-export const metadata : Metadata = {
-    title: "Finance",
-  };
 
 const Money = () => {
   const [visiblePosts, setVisiblePosts] = useState(12); // Show 4 initially
