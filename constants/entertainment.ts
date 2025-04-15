@@ -138,7 +138,7 @@
   {
       title: `How to Set and Achieve Financial Goals Effectively`,
       imgUrl: `1118.jpg`,
-      authorName: `Rahul Sharma`,
+      authorName: `James Austen`,
       section:"trading",
       readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
       contents: [
@@ -482,7 +482,7 @@
   {
       title: `Smart Ways to Save for Your Child’s Education`,
       imgUrl: `1122.jpg`,
-      authorName: `Rahul Sharma`,
+      authorName: `James Austen`,
       section:"trading",
       readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
       contents: [
@@ -932,7 +932,7 @@
     {
       title: `Risk Management Strategies for U.S. Traders`,
       imgUrl: `moneymorning20.jpg`,  
-      authorName: `Rahul Sharma`,
+      authorName: `James Austen`,
       section:"trading",
       readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
       contents: [
@@ -1170,7 +1170,7 @@
     {
       title: `Options Trading Strategies: Calls, Puts, and Spreads Explained`,
       imgUrl: `moneymorning56.jpg`,  
-      authorName: `Rahul Sharma`,
+      authorName: `James Austen`,
       section:"trading",
       readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
       contents: [

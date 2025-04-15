@@ -156,7 +156,7 @@
   
   {
     title: `Exploring the Best Loan Options for First-Time Homebuyers`,
-    imgUrl: `1052.jpg`,
+    imgUrl: `1056.jpg`,
     authorName: `James Carter`,
     section: "finance",
     readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
@@ -235,7 +235,7 @@
   {
     title: `Top 5 US Banks with the Best Customer Service in 2024`,
     imgUrl: `1053.jpg`,
-    authorName: `Rahul Sharma`,
+    authorName: `James Austen`,
     section: "finance",
     readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
     contents: [
@@ -541,8 +541,8 @@
   
   {
     title: `Exploring the Best Loan Options for First-Time Homebuyers`,
-    imgUrl: `1057.jpg`,
-    authorName: `Rahul Sharma`,
+    imgUrl: `1056.jpg`,
+    authorName: `James Austen`,
     section: "finance",
     readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
     contents: [
@@ -710,7 +710,7 @@
 {
     title: `The Importance of Diversifying Your Investment Portfolio`,
     imgUrl: `1102.jpg`,
-    authorName: `Rahul Sharma`,
+    authorName: `James Austen`,
     section: "finance",
     readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
     contents: [

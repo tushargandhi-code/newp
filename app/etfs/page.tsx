@@ -86,7 +86,8 @@ const Politics = () => {
                     width={1000}
                     height={1000}
                     alt={post.title}
-                    className='h-[250px] xl:h-[200px] object-cover'
+                    className='h-[250px] xl:h-[200px] object-cover transition-transform duration-300 ease-in-out
+                    hover:scale-105 hover:brightness-110'
                   />
                   <h2 className='mt-3 text-xl text-left font-bold text-black'>{post.title}</h2>
                   <p className="text-gray-500 text-left text-sm p-2">

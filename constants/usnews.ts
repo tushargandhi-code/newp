@@ -63,7 +63,7 @@
 {
     title: `The Role of Financial Advisors in Wealth Management`,
     imgUrl: `1106.jpg`,
-    authorName: `Rahul Sharma`,
+    authorName: `James Austen`,
     section:"stock",
     readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
     contents: [
@@ -346,7 +346,7 @@
 {
     title: `Understanding the Stock Market: A Guide for New Investors`,
     imgUrl: `1111.jpg`,
-    authorName: `Rahul Sharma`,
+    authorName: `James Austen`,
     section:"stock",
     readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
     contents: [
@@ -667,7 +667,7 @@
 {
     title: `Emergency Funds: Why They’re Essential and How to Build One`,
     imgUrl: `1115.jpg`,
-    authorName: `Rahul Sharma`,
+    authorName: `James Austen`,
     section:"stock",
     readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
     contents: [
@@ -870,7 +870,7 @@
 {
   title: `Tech Stocks to Watch: Are We in Another Boom?`,
   imgUrl: `moneymorning14.jpg`,  
-  authorName: `Rahul Sharma`,
+  authorName: `James Austen`,
   section:"stock",
   readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
   contents: [
@@ -1130,7 +1130,7 @@
 {
   title: `AI and Automation: The Next Big Disruptors in the Stock Market`,
   imgUrl: `moneymorning46.jpg`,  
-  authorName: `Rahul Sharma`,
+  authorName: `James Austen`,
   section:"stock",
   readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
   contents: [

@@ -120,7 +120,7 @@
   {
     title: `5 Secret Credit Card Tricks Banks Don’t Want You to Know`,
     imgUrl: `1031.jpg`,
-    authorName: `Rahul Sharma`,
+    authorName: `James Austen`,
     section: "etfs",
     readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
     contents: [
@@ -288,7 +288,7 @@
   {
     title: `How I Paid Off $50,000 Debt in Just 12 Months – You Can Too!`,
     imgUrl: `1034.jpg`,
-    authorName: `Rahul Sharma`,
+    authorName: `James Austen`,
     section: "etfs",
     readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
     contents: [
@@ -768,7 +768,7 @@
   {
     title: `Understanding the US Banking System: How It Works and Why It Matters`,
     imgUrl: `1049.jpg`,
-    authorName: `Rahul Sharma`,
+    authorName: `James Austen`,
     section: "etfs",
     readTime: `${Math.floor(Math.random() * (6 - 3 + 1)) + 3} min read`,
     contents: [
@@ -841,7 +841,7 @@
   {
     title: `ETFs vs. Mutual Funds: Which is Better for Your Portfolio?`,
     imgUrl: `moneymorning6.jpg`,  
-    authorName: `Rahul Sharma`,
+    authorName: `James Austen`,
     section: "etfs",
     readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
     contents: [
@@ -1050,7 +1050,7 @@
   {
     title: `ETFs vs. Mutual Funds: Which is Right for You?`,
     imgUrl: `moneymorning31.jpg`,  
-    authorName: `Rahul Sharma`,
+    authorName: `James Austen`,
     section: "etfs",
     readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
     contents: [
@@ -1194,7 +1194,7 @@
   {
     title: `Index Funds vs. Actively Managed Mutual Funds: Pros and Cons`,
     imgUrl: `moneymorning34.jpg`,  
-    authorName: `Rahul Sharma`,
+    authorName: `James Austen`,
     section: "etfs",
     readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
     contents: [
@@ -1246,7 +1246,7 @@
   {
     title: `Sector-Specific ETFs: Are They Worth the Investment?`,
     imgUrl: `moneymorning35.jpg`,  
-    authorName: `Rahul Sharma`,
+    authorName: `James Austen`,
     section: "etfs",
     readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
     contents: [
@@ -1458,7 +1458,7 @@
   {
     title: `401(k) and IRA: How ETFs and Mutual Funds Fit Into Retirement`,
     imgUrl: `moneymorning40.jpg`,  
-    authorName: `Rahul Sharma`,
+    authorName: `James Austen`,
     section: "etfs",
     readTime: `${Math.floor(Math.random() * (5 - 3 + 1)) + 3} min read`,
     contents: [
