@@ -14,7 +14,7 @@ import Footer from '@/components/Footer';
 const Politics = () => {
   const [visiblePosts, setVisiblePosts] = useState(12); 
   const loadMore = () => {
-    setVisiblePosts((prev) => prev + 4); 
+    setVisiblePosts((prev) => prev + 12); 
   };
 
   return (
