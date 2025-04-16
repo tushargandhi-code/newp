@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+ 
+Sitemap: https://newp-neon.vercel.app/sitemap.xml
